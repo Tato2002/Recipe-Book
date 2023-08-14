@@ -1,0 +1,14 @@
+
+.save {
+  margin-right: 10px;
+}
+.save , .cancel {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+form input.ng-invalid.ng-touched,
+form textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
